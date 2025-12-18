@@ -1,5 +1,6 @@
-helloooo~~~~ ☆(≧▽≦)☆
-I'm Toby, a professional crust developer by day and a sleeping person by night!!
+**helloooo~~~~** ☆(≧▽≦)☆
+
+I'm Toby, a professional `crust` developer by day and a sleeping person by night!!
 
 You might not be familiar with `crust`\~\~in fact, if you are familiar with it, you are probably me!!\~\~since `crust` is my own personal programming language.
 
